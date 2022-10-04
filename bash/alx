@@ -1,2 +1,3 @@
-#!/bin/ba
-s echo"ALX"
+
+#!/bin/bash
+echo "ALX"
